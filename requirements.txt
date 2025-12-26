@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain-text-splitters
+langchain_neo4j
+langchain_openai
+langchain-huggingface
+sentence-transformers
+openai
+pypdf
+unstructured
