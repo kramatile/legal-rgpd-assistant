@@ -5,6 +5,8 @@ langchain_neo4j
 langchain_openai
 langchain-huggingface
 sentence-transformers
+"fastapi[standard]"
+uvicorn
 openai
 pypdf
 unstructured
