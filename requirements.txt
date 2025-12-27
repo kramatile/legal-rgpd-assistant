@@ -10,3 +10,5 @@ uvicorn
 openai
 pypdf
 unstructured
+streamlit 
+requests
